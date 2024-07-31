@@ -1,0 +1,20 @@
+/*style for body */
+body {
+    background-color: aquamarine;
+    margin-inline-start: 50px;
+    padding-inline-start: 50px;
+    text-align: center;
+}
+
+/* style for section */
+section {
+    margin: 10%, 1%, 10%, 1%;
+    padding: auto;
+}
+h1 {
+    color: rgb(49, 48, 48;
+    
+}
+h3 {
+    color: rgb(49, 48, 48);
+}
